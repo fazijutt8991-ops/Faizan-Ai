@@ -1,8 +1,8 @@
 {
-  "name": "ANAYAT-AI",
-  "description": "Javascript WhatsApp bot made by 𝘼𝙉𝘼𝙔𝘼𝙏-𝙆𝙃𝘼𝙉",
-  "logo": "https://files.catbox.moe/adhn5v.jpg",
-  "keywords": ["ANAYAT-AI"],
+  "name": "FAIZAN-AI",
+  "description": "Javascript WhatsApp bot made by FAIZAN JUTT",
+  "logo": "https://i.ibb.co/9mdHyGDL/shaban-md.jpg",
+  "keywords": ["FAIZAN-AI"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ANAYAT-AI"
+      "value": "FAIZAN-AI"
     }, 
       
     "PREFIX": {
@@ -78,7 +78,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY ANAYAT-AI 🖤*"
+      "value": "*SEEN YOUR STATUS BY FAIZAN-AI 🖤*"
    
      }, 
     
@@ -91,14 +91,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923452401"
+      "value": "923266105873"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ANAYAT-AI"
+      "value": "FAIZAN-AI"
 
       }, 
 
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/adhn5v.jpg"
+      "value": "https://i.ibb.co/9mdHyGDL/shaban-md.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝘼𝙉𝘼𝙔𝘼𝙏-𝙆𝙃𝘼𝙉 ❣️*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ FAIZAN JUTT ❣️*"
     },
 
       "DELETE_LINKS": {
