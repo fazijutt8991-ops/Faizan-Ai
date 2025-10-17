@@ -35,7 +35,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=WHATSAPP+CHANNEL)](https://git.io/typing-svg)
 <br>
 <p>This is my Whatsapp Channel kindly follow us to check on update about FAIZAN-JUTT 😌😇. Kindly click on the link below 👇👇
- <p><a href="https://whatsapp.com/channel/0029VaiBr1WDzgTAYG2f6V37"><img title="WHATSAPP CHANNEL" src="https://img.shields.io/badge/WHATSAPP CHANNEL-w?color=purple&style=for-the-badge&logo=Whatsapp" width="220" height="38.45"/></a></p>
+ <p><a href="https://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g"><img title="WHATSAPP CHANNEL" src="https://img.shields.io/badge/WHATSAPP CHANNEL-w?color=purple&style=for-the-badge&logo=Whatsapp" width="220" height="38.45"/></a></p>
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
