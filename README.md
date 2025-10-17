@@ -13,7 +13,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Ghost-MD+𝑽1+carater FAZI-MD)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&background=5A4FFF39&width=435&lines=FAZIMD+)](https://git.io/typing-svg)) 
 
 
 
