@@ -1,4 +1,5 @@
 # Faizan-Ai
+[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/923001234567)
 ![IMG-20240905-WA0092](https://i.ibb.co/9mdHyGDL/shaban-md.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
