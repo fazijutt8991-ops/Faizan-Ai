@@ -11,8 +11,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70202&background=5A4FFF39&width=435&lines=𝙁𝘼𝙄𝙕𝘼𝙉–𝙅𝙐𝙏𝙏+)](https://git.io/typing-svg)) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=git+clone+https%3A%2F%2Fgithub.com%2F%3CFaizan-AiR%3E%2Freadme-typing-svg.git+cd+readme-typing-svg)](https://git.io/typing-svg)
 
 
 
