@@ -1,3 +1,4 @@
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/code-fork.png" width="30"/> <span style="color:black;">Fork this repository</span>
 <h1 align="center">
   <img src="https://files.catbox.moe/3ddbjq.jpg" alt="AYANAT-AI" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>
