@@ -1,4 +1,5 @@
 # Faizan-Ai
+[![WhatsApp](https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923266105873)
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/923266105873)
 ![IMG-20240905-WA0092](https://i.ibb.co/9mdHyGDL/shaban-md.jpg)
 
