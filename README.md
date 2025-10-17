@@ -1,5 +1,4 @@
 # Faizan-Ai
-# Ghost-MD
 ![IMG-20240905-WA0092](https://i.ibb.co/9mdHyGDL/shaban-md.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -24,18 +23,18 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐓𝐇𝐄+𝐁𝐄𝐒𝐓+𝐅𝐑𝐎𝐌+Dark-Love-MD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐓𝐇𝐄+𝐁𝐄𝐒𝐓+𝐅𝐑𝐎𝐌+FAIZAN-MD)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗖𝗢𝗗𝗘+𝗕𝗬+Dark-Love-MD+Enjoy!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝗖𝗢𝗗𝗘+𝗕𝗬+FAIZAN-JUTT-MD+Enjoy!!!)](https://git.io/typing-svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=WHATSAPP+CHANNEL)](https://git.io/typing-svg)
 <br>
-<p>This is my Whatsapp Channel kindly follow us to check on update about Dark-Love-MD 😌😇. Kindly click on the link below 👇👇
+<p>This is my Whatsapp Channel kindly follow us to check on update about FAIZAN-JUTT 😌😇. Kindly click on the link below 👇👇
  <p><a href="https://whatsapp.com/channel/0029VaiBr1WDzgTAYG2f6V37"><img title="WHATSAPP CHANNEL" src="https://img.shields.io/badge/WHATSAPP CHANNEL-w?color=purple&style=for-the-badge&logo=Whatsapp" width="220" height="38.45"/></a></p>
  
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
