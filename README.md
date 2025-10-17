@@ -1,6 +1,6 @@
 # Faizan-Ai
 # Ghost-MD
-![IMG-20240905-WA0092](https://github.com/user-attachments/assets/e6dadad1-ce26-429c-837b-c759f966ec29)
+![IMG-20240905-WA0092](https://i.ibb.co/9mdHyGDL/shaban-md.jpg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
