@@ -29,7 +29,7 @@ cmd({
       }
       _0x2d6fc6 = _0x450784.videos[0x0].url;
     }
-    let _0x2dbca0 = await fetch('https://gtech-api-xtp1.onrender.com/api/audio/yt?apikey=APIKEY&url=' + encodeURIComponent(_0x2d6fc6));
+    let _0x2dbca0 = await fetch('https://gtech-api-xtp1.onrender.com/api/ytmp3?apikey=$' + encodeURIComponent(_0x2d6fc6));
     let _0x2cc18f = await _0x2dbca0.json();
     if (!_0x2cc18f.status) {
       return _0x13cbf0("Failed to fetch audio.");
@@ -103,3 +103,4 @@ cmd({
     console.log(_0x4a5abf);
   }
 });
+      
