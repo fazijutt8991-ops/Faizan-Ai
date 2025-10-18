@@ -1,3 +1,6 @@
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 «𝙁𝘼𝙄𝙕𝘼𝙉 𝙅𝙐𝙏𝙏»
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
@@ -52,8 +55,11 @@
 <p align="center">⚡ Deploy your bot on <b>Heroku</b> easily.</p>
 
 ---
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 📡 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙎
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g">
     <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -65,29 +71,32 @@
 <p align="center">📢 Stay connected with <b>Channel</b> & <b>Owner</b> for updates.</p>
 
 ---
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⚡ 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - ✅ Auto Reply  
 - ✅ Media Downloader (FB, Insta, TikTok etc.)  
 - ✅ Group Management  
 - ✅ Easy Setup  
 - ✅ 24/7 Uptime  
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⚠️ 𝙍𝙀𝙈𝙄𝙉𝘿𝙀𝙍
 - ❌ This bot is not affiliated with WhatsApp Inc.  
 - ⚡ Misuse may ban your number permanently.  
 - 🛡️ Owner is not responsible for any misuse.  
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 📝 𝘿𝙄𝙎𝘾𝙇𝘼𝙄𝙈𝙀𝙍
 This bot is made for **learning & fun purposes only**.  
 Do not sell, misuse, or use without giving credits.  
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h2 align="center">
   🌈✨ Thanks for using <span style="color:#00FFFF">FAIZAN-AI</span> ✨🌈
 </h2>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
