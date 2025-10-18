@@ -1,8 +1,9 @@
 «𝙁𝘼𝙄𝙕𝘼𝙉 𝙅𝙐𝙏𝙏»
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
   <img src="https://files.catbox.moe/3ddbjq.jpg" alt="FAIZAN-AI" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
 </h1>
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); 
                -webkit-background-clip: text; 
