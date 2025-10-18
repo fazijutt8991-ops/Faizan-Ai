@@ -13,7 +13,9 @@
                color: transparent; 
                font-size: 45px; 
                font-weight: bold;">
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
     ✨ FAIZAN-AI ✨
+    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   </span>
 </h1>
 
@@ -22,7 +24,7 @@
 </p>
 
 ---
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## ⭐ 𝙁𝙊𝙍𝙆 & 𝙎𝙏𝘼𝙍
 <p align="center">
   <a href="https://github.com/Faizan-MD-BOTZ/Faizan-Ai/fork">
@@ -35,7 +37,7 @@
 <p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>
 
 ---
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
 <p align="center">
   <a href="https://faizan-md-session-generator.onrender.com/">
@@ -45,7 +47,7 @@
 <p align="center">📲 Click above button to generate your <b>Session ID</b> (required for deployment).</p>
 
 ---
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🚀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙉𝙊𝙒
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https://github.com/Faizan-MD-BOTZ/Faizan-Ai">
