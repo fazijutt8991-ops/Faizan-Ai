@@ -1,7 +1,7 @@
 const config = require('../config');
 const { cmd, commands } = require('../command');
 
-// Array of different fancy text styles for 𝙵𝙰𝙸𝚉𝙰𝙽-𝙰𝙸
+// Array of different fancy text styles for FAIZAN-AI
 const botNameStyles = [
     "🅵🅰🅸🆉🅰🅽-🅰🅸",
     "FₐᵢZₐₙ-ₐᵢ",
