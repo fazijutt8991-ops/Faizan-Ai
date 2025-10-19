@@ -17,9 +17,9 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `╭━━〔 🚀 *${config.BOT_NAME}* 〕━━┈⊷
+        let dec = `╭━━〔 🚀 *${config.FAIZAN-AI}* 〕━━┈⊷
 ┃◈╭─────────────────·๏
-┃◈┃• 👑 Owner : *${config.OWNER_NAME}*
+┃◈┃• 👑 Owner : *${config.FAIZAN-AI}*
 ┃◈┃• ⚙️ Prefix : *[${config.PREFIX}]*
 ┃◈┃• 🌐 Platform : *Heroku*
 ┃◈┃• 📦 Version : *4.0.0*
@@ -346,7 +346,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/adhn5v.jpg' },
+                image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/jq65ev.jpg' },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
