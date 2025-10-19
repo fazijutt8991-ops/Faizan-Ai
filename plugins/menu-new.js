@@ -22,13 +22,13 @@ cmd({
 ⟬★⟭────────────────
 ⟬★⟭ 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡
 ⟬★⟭────────────────
-│ 👑  Owner » *ANAYAT* *KING*
+│ 👑  Owner » *FAIZAN* *KING*
 │ 🤖  Baileys » *Multi Device*
 │ 💻  Type » *NodeJs*
 │ 🚀  Platform » *Heroku*
 │ ⚙️  Mode » *[public]*
 │ 🔣  Prefix » *[.]*
-│ 🏷️  creater » *AnayatAI Official*
+│ 🏷️  creater » *FAIZAN-AI Official*
 │ 📚  Commands » *332*
 ⟬★⟭─────────────────
 ╔═══◇◆◇════════════╗
@@ -298,7 +298,7 @@ cmd({
                 return await conn.sendMessage(
                     from,
                     {
-                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/adhn5v.jpg' },
+                        image: { url: config.MENU_IMAGE_URL || 'https://files.catbox.moe/jq65ev.jpg' },
                         caption: menuCaption,
                         contextInfo: contextInfo
                     },
