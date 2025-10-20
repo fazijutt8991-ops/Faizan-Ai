@@ -7,9 +7,9 @@ const axios = require('axios');
 const fs = require('fs');
 
 cmd({
-    pattern: "menu3",
+    pattern: "menu",
     desc: "menu the bot",
-    category: "menu3",
+    category: "menu",
     react: "⚡",
     filename: __filename
 },
@@ -55,8 +55,8 @@ async (conn, mek, m, { from, sender, pushname, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -135,8 +135,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: "𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈",
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: "𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚",
                         serverMessageId: 143
                     }
                 }
@@ -201,8 +201,8 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 144
                     }
                 }
@@ -284,8 +284,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -362,8 +362,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -429,8 +429,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -500,8 +500,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -552,8 +552,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -611,8 +611,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -672,8 +672,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -741,8 +741,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
@@ -800,8 +800,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }
