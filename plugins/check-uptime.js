@@ -119,8 +119,8 @@ ${config.DESCRIPTION}`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420933039839@newsletter',
-                    newsletterName: config.OWNER_NAME || '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                    newsletterJid: '120363421896999345@newsletter',
+                    newsletterName: config.OWNER_NAME || '𝔽𝕒𝕚𝕫𝕒𝕟-𝕒𝕚',
                     serverMessageId: 143
                 }
             }
