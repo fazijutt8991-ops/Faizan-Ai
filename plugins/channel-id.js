@@ -2,9 +2,9 @@ const { cmd } = require("../command");
 
 cmd({
   pattern: "cid",
-  alias: ["newsletter", "id"],
+  alias: ["newsletter", "120363421896999345@newsletter"],
   react: "📡",
-  desc: "Get WhatsApp Channel info from link",
+  desc: "https://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g",
   category: "whatsapp",
   filename: __filename
 }, async (conn, mek, m, {
@@ -17,7 +17,7 @@ cmd({
     if (!q) return reply("❎ Please provide a WhatsApp Channel link.\n\n*Example:* .cinfo https://whatsapp.com/channel/123456789");
 
     const match = q.match(/whatsapp\.com\/channel\/([\w-]+)/);
-    if (!match) return reply("⚠️ *Invalid channel link format.*\n\nMake sure it looks like:\nhttps://whatsapp.com/channel/xxxxxxxxx");
+    if (!match) return reply("⚠️ *Invalid channel link format.*\n\nMake sure it looks like:\nhttps://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g");
 
     const inviteId = match[1];
 
