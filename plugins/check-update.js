@@ -53,10 +53,10 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/ANAYAT-AI/ANAYAT-AI/tree/main';
+    const githubRepo = 'https://github.com/Faizan-MD-BOTZ/Faizan-Ai/tree/main';
 
     // Check update status
-    let updateMessage = `✅ Your Anayat-ai bot is up-to-date!`;
+    let updateMessage = `✅ Your 𝔽𝕒𝕚𝕫𝕒𝕟-𝕒𝕚 bot is up-to-date!`;
     if (localVersion !== latestVersion) {
       updateMessage = `🚀 Your Anayat-ai bot is outdated!
 🔹 *Current Version:* ${localVersion}
@@ -66,22 +66,22 @@ Use *.update* to update.`;
     }
 
     const statusMessage = `🌟 *Good ${new Date().getHours() < 12 ? 'Morning' : 'Night'}, ${pushname}!* 🌟\n\n` +
-      `📌 *Bot Name:* ArslanMD-MD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
+      `📌 *Bot Name:* Faizan-md\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
-      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈](https://github.com/ANAYAT-AI/ANAYAT-AI/tree/main)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
+      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [𝔽𝕒𝕚𝕫𝕒𝕟-𝕒𝕚](https://github.com/Faizan-MD-BOTZ/Faizan-Ai/tree/main)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
-      image: { url: 'https://files.catbox.moe/rexuf8.jpg' },
+      image: { url: 'https://files.catbox.moe/jq65ev.jpg' },
       caption: statusMessage,
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363420933039839@newsletter',
-          newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+          newsletterJid: '120363421896999345@newsletter',
+          newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝕒𝕚',
           serverMessageId: 143
         }
       }
