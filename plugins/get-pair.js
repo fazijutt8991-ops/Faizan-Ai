@@ -27,7 +27,7 @@ cmd({
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *ANAYAT-AI PAIRING COMPLETED*";
+        const doneMessage = "> *𝔽𝕒𝕚𝕫𝕒𝕟-𝕒𝕚 PAIRING COMPLETED*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
