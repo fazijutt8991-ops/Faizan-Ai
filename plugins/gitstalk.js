@@ -27,7 +27,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 👥 *Followers*: ${data.followers} | Following: ${data.following}
 📅 *Created At*: ${new Date(data.created_at).toDateString()}
 🔭 *Public Gists*: ${data.public_gists}
-> *𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈*`;
+> _FAIZAN-AI_`;
           const sentMsg = await conn.sendMessage(from,{image:{url: data.avatar_url },caption: userInfo },{quoted:mek })
     } catch (e) {
         console.log(e);

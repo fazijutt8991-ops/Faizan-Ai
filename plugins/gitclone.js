@@ -55,8 +55,8 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363420933039839@newsletter',
-          newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+          newsletterJid: '120363421896999345@newsletter',
+          newsletterName: '_FAIZAN-AI_',
           serverMessageId: 143
         }
       }
