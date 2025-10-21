@@ -40,7 +40,7 @@ async (conn, mek, m, { from, reply }) => {
 });
 
 cmd({
-    pattern: "heart",
+    pattern: "h",
     desc: "Displays a dynamic edit msg for fun.",
     category: "tools",
     react: "❤️",
