@@ -39,7 +39,7 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-Powered By *𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈* 💜`;
+Powered By *𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
@@ -50,8 +50,8 @@ Powered By *𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈* 💜`;
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420933039839@newsletter',
-                    newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                    newsletterJid: '120363421896999345@newsletter',
+                    newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                     serverMessageId: 143
                 }
             }
