@@ -1,7 +1,7 @@
 const { cmd } = require("../command");
 
 cmd({
-  pattern: "vv",
+  pattern: "v",
   alias: ["viewonce", 'retrive'],
   react: '🐳',
   desc: "Owner Only - retrieve quoted message back to user",
