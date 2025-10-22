@@ -40,8 +40,8 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: config.BOT_NAME || "ANAYAT-AI 🥀",
-            body: config.DESCRIPTION || "𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈 🤌💗",
+            title: config.BOT_NAME || "_FAIZAN-AI_ 🥀",
+            body: config.DESCRIPTION || "𝔽𝕒𝕚𝕫𝕒𝕟-𝕒𝕚 🤌💗",
             mediaType: 1,
             renderLargerThumbnail: true,
             thumbnail: thumbnailBuffer,
