@@ -13,7 +13,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/ANAYAT-AI/ANAYAT-AI/tree/main';
+    const githubRepoURL = 'https://github.com/Faizan-MD-BOTZ/Faizan-Ai';
 
     try {
         // Extract username and repo name from the URL
@@ -40,7 +40,7 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420933039839@newsletter',
+                    newsletterJid: '120363421896999345@newsletter',
                     newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
                     serverMessageId: 143
                 }
@@ -59,7 +59,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420933039839@newsletter',
-                    newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                    newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝕒𝕚',
                     serverMessageId: 143
                 }
             }
