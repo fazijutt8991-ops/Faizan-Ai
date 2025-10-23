@@ -60,8 +60,8 @@ async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, se
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: '𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚',
                         serverMessageId: 143
                     }
                 }

@@ -3,7 +3,7 @@ const { sleep } = require("../lib/functions");
 
 cmd({  
     pattern: "restart",  
-    desc: "Restart Anayat-AI",  
+    desc: "Restart 𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚",  
     category: "owner",  
     filename: __filename  
 },  
