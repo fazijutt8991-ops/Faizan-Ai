@@ -94,7 +94,7 @@ cmd({
       'video': {
         'url': _0x5f2691
       },
-      'caption': "Powered By Anayat-AI Official"
+      'caption': "- _Powered By 𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝙸🫀𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕_"
     }, {
       'quoted': _0x40711d
     });

@@ -25,7 +25,7 @@ cmd({
     responseMsg += `🍴 *Forks*: ${data.forks_count}\n`;
     responseMsg += `👤 *Owner*: ${data.owner.login}\n`;
     responseMsg += `📅 *Created At*: ${new Date(data.created_at).toLocaleDateString()}\n`;
-    responseMsg += `\n> *© Powered by 𝔽𝕒𝕚𝕫𝕒𝕟-𝔸𝕚 Official*`;
+    responseMsg += `\n> *© - _Powered By 𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝙸🫀𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕_*`;
 
     await conn.sendMessage(from, { text: responseMsg }, { quoted: m });
   } catch (error) {

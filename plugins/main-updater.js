@@ -26,10 +26,10 @@ cmd({
         const currentHash = await getCommitHash();
 
         if (latestCommitHash === currentHash) {
-            return reply("✅ Your Anayat-AI bot is already up-to-date!");
+            return reply("✅ Your 𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝚒 bot is already up-to-date!");
         }
 
-        await reply("🚀 Updating ANAYAT-AI Bot...");
+        await reply("🚀 Updating FAIZAN-AI Bot...");
 
         // Download the latest code
         const zipPath = path.join(__dirname, "latest.zip");

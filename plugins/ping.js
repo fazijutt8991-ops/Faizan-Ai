@@ -6,7 +6,7 @@ cmd({
     alias: ["speed","pong"],use: '.ping',
     desc: "Check bot's response time.",
     category: "main",
-    react: "⚡",
+    react: "🪄",
     filename: __filename
 },
 async (conn, mek, m, { from, quoted, sender, reply }) => {

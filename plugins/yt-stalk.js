@@ -32,7 +32,7 @@ cmd({
       + `┃🎥 *Videos:* ${yt.video_count}\n`
       + `┃🔗 *Channel Link:* (${yt.channel})\n`
       + `╰━━━⪼\n\n`
-      + `🔹 *_FAIZAN-AI_*`;
+      + `🔹 *𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝚒*`;
 
     await conn.sendMessage(from, {
       image: { url: yt.avatar },
