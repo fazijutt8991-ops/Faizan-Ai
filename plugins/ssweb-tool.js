@@ -24,21 +24,21 @@ async (conn, mek, m, {
   }
 
   try {
-    // created by jawad tech 
+    // created by 𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝚒 
     const response = await axios.get(`https://api.davidcyriltech.my.id/ssweb?url=${q}`);
     const screenshotUrl = response.data.screenshotUrl;
 
     // give credit and use
     const imageMessage = {
       image: { url: screenshotUrl },
-      caption: "*WEB SS DOWNLOADER*\n\n> *𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈*",
+      caption: "*WEB SS DOWNLOADER*\n\n> *𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝚒*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363420933039839@newsletter',
-          newsletterName: "𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈",
+          newsletterJid: '120363421896999345@newsletter',
+          newsletterName: "𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝚒",
           serverMessageId: 143,
         },
       },
