@@ -77,7 +77,7 @@ cmd({
 cmd({
     pattern: "mode",
     alias: ["setmode"],
-    react: "🫟",
+    react: "🎀",
     desc: "Set bot mode to private or public.",
     category: "settings",
     filename: __filename,
