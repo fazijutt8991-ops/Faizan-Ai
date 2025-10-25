@@ -55,8 +55,8 @@ _Email will expire after 24 hours_
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363420933039839@newsletter',
-                        newsletterName: 'TempMail Service',
+                        newsletterJid: '120363421896999345@newsletter',
+                        newsletterName: '𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝚒',
                         serverMessageId: 101
                     }
                 }
