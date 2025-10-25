@@ -71,7 +71,7 @@ async (conn, mek, m, { from, reply }) => {
 │
 ╰─────────────────────
 
-🔧 *Bot maintained by 𝐹𝑎𝑖𝑧𝑎𝑛-𝐴𝑖 Official*`;
+🔧 *Bot maintained by 𝙵𝚊𝚒𝚣𝚊𝚗-𝙰𝙸🫀𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕_*`;
 
         await reply(sysInfoMessage);
 
