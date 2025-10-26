@@ -4,7 +4,7 @@
   "description": "A WhatsApp Bot Created By FAIZAN-Ai",
   "main": "start.js",
   "scripts": {
-    "start": "pm2 start start.js --deep-monitoring --attach --name ANAYAT-AI",
+    "start": "pm2 start start.js --deep-monitoring --attach --name FAIZAN-Ai",
     "stop": "pm2 stop FAIZAN-Ai",
     "restart": "pm2 restart FAIZAN-Ai"
   },
