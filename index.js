@@ -1,41 +1,16 @@
-import fs from "fs";
-import path from "path";
-import axios from "axios";
-import chalk from "chalk";
-import moment from "moment-timezone";
+// index.js — FAIZAN-AI simple startup test
 
-// --- Basic setup info ---
-console.clear();
-console.log(chalk.blueBright("🚀 Starting FAIZAN-AI..."));
-console.log(chalk.greenBright(`🕒 ${moment().format("LLLL")}`));
+import http from "http";
 
-// --- Load configuration ---
-let config = {};
-const configPath = path.join(process.cwd(), "config.js");
+console.log("🚀 FAIZAN-AI is starting...");
 
-if (fs.existsSync(configPath)) {
-  config = await import(`file://${configPath}?update=${Date.now()}`);
-  console.log(chalk.yellow("✅ Config loaded successfully."));
-} else {
-  console.log(chalk.red("⚠️ Config file not found! Please check config.js"));
-}
+// Simple HTTP server (to keep Replit / Render / Railway active)
+const server = http.createServer((req, res) => {
+  res.writeHead(200, { "Content-Type": "text/plain" });
+  res.end("✅ FAIZAN-AI BOT is running successfully!\n");
+});
 
-// --- Example startup message ---
-console.log(chalk.cyan(`
--------------------------------------
-🤖 FAIZAN-AI BOT IS NOW RUNNING!
--------------------------------------
-`));
-
-// --- Example async task ---
-try {
-  const res = await axios.get("https://api.github.com/repos/Faizan-MD-BOTZ/Faizan-Ai");
-  console.log(chalk.magenta(`📦 Repo Info Loaded: ${res.data.full_name}`));
-} catch (err) {
-  console.log(chalk.red("❌ Failed to fetch repo info (no internet or API limit)."));
-}
-
-// --- Keep the bot alive ---
-setInterval(() => {
-  console.log(chalk.gray(`[${moment().format("LTS")}] 💡 Bot is active...`));
-}, 60000);
+server.listen(3000, () => {
+  console.log("💡 FAIZAN-AI is live at http://localhost:3000 or your deployment URL");
+  console.log("💬 Everything is working fine. PM2 should keep it online.");
+});
