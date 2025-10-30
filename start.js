@@ -1,48 +1,47 @@
-// ✅ FAIZAN-AI Clean Starter Script
-// Author: Faizan (Fixed by ChatGPT)
-// Version: 2.0
+// ✅ FAIZAN-AI Clean & Fixed Starter Script
+// Author: Faizan Jutt
+// Fixed by ChatGPT (v2.0)
 
 import fs from "fs";
 import path from "path";
 import { exec } from "child_process";
 import AdmZip from "adm-zip";
-import { Storage } from "megajs";
+import { File } from "megajs"; // ✅ fixed import
 
-// ───────────────────────────────────────────────
-// 🔹 CONFIGURATION
-// ───────────────────────────────────────────────
+// ───────────────────────────────
+// ⚙️ CONFIGURATION
+// ───────────────────────────────
 const MEGA_LINK =
   "https://mega.nz/file/N6oQxYgZ#HNjpyhEgX2WvA3qOcpZZ5vhA6F8Y8tiLT16KTWrrvOc";
 const DOWNLOAD_PATH = "./faizan-bot.zip";
 const EXTRACT_PATH = "./faizan-bot";
 const MAIN_SCRIPT = "index.js"; // main bot file
 
-// ───────────────────────────────────────────────
-// 🔹 DOWNLOAD FUNCTION
-// ───────────────────────────────────────────────
+// ───────────────────────────────
+// 📥 DOWNLOAD FUNCTION
+// ───────────────────────────────
 async function downloadFromMega() {
   console.log("📥 Downloading latest Faizan-AI files from MEGA...");
-  const storage = Storage.fromURL(MEGA_LINK);
-  await storage.loadAttributes();
 
-  const file = storage.root.children[0];
-  const download = file.download();
+  const file = File.fromURL(MEGA_LINK);
 
-  const writeStream = fs.createWriteStream(DOWNLOAD_PATH);
-  download.pipe(writeStream);
-
-  return new Promise((resolve, reject) => {
-    writeStream.on("finish", () => {
-      console.log("✅ Download complete!");
-      resolve();
+  await new Promise((resolve, reject) => {
+    file.download((err, data) => {
+      if (err) {
+        console.error("❌ Error while downloading:", err);
+        reject(err);
+      } else {
+        fs.writeFileSync(DOWNLOAD_PATH, data);
+        console.log("✅ Download complete!");
+        resolve();
+      }
     });
-    writeStream.on("error", reject);
   });
 }
 
-// ───────────────────────────────────────────────
-// 🔹 EXTRACT FUNCTION
-// ───────────────────────────────────────────────
+// ───────────────────────────────
+// 📦 EXTRACT FUNCTION
+// ───────────────────────────────
 function extractZip() {
   console.log("📦 Extracting files...");
   const zip = new AdmZip(DOWNLOAD_PATH);
@@ -50,28 +49,30 @@ function extractZip() {
   console.log("✅ Extraction complete!");
 }
 
-// ───────────────────────────────────────────────
-// 🔹 START BOT FUNCTION
-// ───────────────────────────────────────────────
+// ───────────────────────────────
+// 🚀 START BOT FUNCTION
+// ───────────────────────────────
 function startBot() {
   console.log("🚀 Starting Faizan-AI Bot...");
   const botPath = path.join(EXTRACT_PATH, MAIN_SCRIPT);
-  const processBot = exec(`node ${botPath}`);
+  const botProcess = exec(`node ${botPath}`);
 
-  processBot.stdout.on("data", (data) => console.log(data.toString()));
-  processBot.stderr.on("data", (data) => console.error(data.toString()));
+  botProcess.stdout.on("data", (data) => console.log(data.toString()));
+  botProcess.stderr.on("data", (data) => console.error(data.toString()));
 }
 
-// ───────────────────────────────────────────────
-// 🔹 MAIN EXECUTION
-// ───────────────────────────────────────────────
+// ───────────────────────────────
+// 🧩 MAIN FUNCTION
+// ───────────────────────────────
 (async () => {
   try {
+    // Download only if file doesn’t exist
     if (!fs.existsSync(DOWNLOAD_PATH)) await downloadFromMega();
+
     extractZip();
     startBot();
   } catch (error) {
-    console.error("❌ Error:", error);
+    console.error("❌ Error during setup:", error);
   }
 
   // 🟢 Keep process alive for PM2
